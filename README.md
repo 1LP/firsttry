@@ -11,7 +11,7 @@ My first repository, to familiarize myself with github!
 > 
 > &mdash; I'm starting a small business, Levimag. We will be selling magic. Real magic. Or, to be more precise, quantum mechanics. Each decade, humanity's understanding of quantum mechanics gets a little bit better. But after all these decades, have you ever felt an effect of quantum mechanics?
 > 
-> &mdash; Chances are, you're one of the 7.7 billion people who have not yet had that pleasure. Our products are simple, with only two components: the first component, which we call the base, creates a precise 3D magnetic field. The second component, which we call the platform, attaches to whatever you would like to levitate. You heard me right: levitate. And to be clear, this is dynamically stable levitation. Stable levitation is not something you see every day because it's actually rather difficult to achieve. Levimag's first product line will allow you to levitate small objects anywhere, in any temperature, and anytime, without any power requirement. No batteries, power cord, or solar panels are included or needed. While many before me have created levitation, Levimag is the first business with the goal of optimizing the quantum effect known as diamagnetism for a variety of applications: academic, industrial, and of course hobbyists as well.
+> &mdash; Chances are, you're one of the 7.7 billion people who have not yet had that pleasure. Our products are simple, with only two components. The first component, which we call the base, creates a precise 3D magnetic field. The second component, which we call the platform, attaches to whatever you would like to levitate. You heard me right: levitate. And to be clear, this is dynamically stable levitation. Stable levitation is not something you see every day because it's actually rather difficult to achieve. Levimag's first product line will allow you to levitate small objects anywhere, in any temperature, and anytime, without any power requirement. No batteries, power cord, or solar panels are included or needed. This levitation is not powered by electricity, but instead by a quantum mechanical effect known as diamagnetism. While many before me have created levitation, Levimag is the first business with the goal of optimizing diamagnetism for a variety of applications: academic, industrial, and of course hobbyist as well.
 > 
 > 
 > 
@@ -35,13 +35,13 @@ My first repository, to familiarize myself with github!
 > 
 > &mdash; The 7th model, last but not least, is a first of its kind demo product that simply levitates itself upside down, with the base completely above the platform. The platform and base are cylindrical, allowing it to rotate freely.
 > 
-> &mdash; Now would also be a good time for me to mention that rotation and track motion can also be driven by LASERs. Okay nah, that would be too much quantum mechanics; I'm just kidding. ... Or am I? :)
+> &mdash; Now would also be a good time for me to mention that rotation and track motion can also be driven by LASERs. Okay never mind, that would be ridiculously magical. I'm just kidding. ... Or am I? :)
 > 
 > 
 > 
 > What will you do with this new superpower? 
 >
-> Show us what you can do with magnetic levitation, and you might just be featured on our Feature page and social media! :)
+> Show us what you can do with Levimag levitation, and you might just be featured on our Feature page and social media! :)
 
 
 
